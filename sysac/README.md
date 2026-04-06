@@ -139,10 +139,10 @@ sysac/
 │   │   ├── SOLBEC.csv
 │   │   ├── EVABEC.csv
 │   │   └── DISBEC.csv
-│   │
-│   └── 📂 cuestionario/
-│       ├── CUESTIONARIO_BECAS.csv
-│       └── CATALOGO_RESPUESTAS.csv
+│   │   │
+│   │   └── 📂 2026A_solicitudes/
+│   │      ├── CUESTIONARIO_BECAS.csv
+│   │      └── CATALOGO_RESPUESTAS.csv
 │
 ├── 📂 notebooks/
 │   └── (pipeline del taller)
